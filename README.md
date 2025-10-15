@@ -73,22 +73,6 @@ To enhance model robustness and address class imbalance, the following augmentat
 - *mAP@0.5:0.95:* 0.341
 - *Inference Speed:* 4.5ms per image
 
-## 📁 Dataset Structure
-
-
-dataset-v3/
-├── train/
-│   ├── images/
-│   └── labels/
-├── valid/
-│   ├── images/
-│   └── labels/
-├── test/
-│   ├── images/
-│   └── labels/
-├── data.yaml
-└── README.md
-
 
 ## 💻 Usage
 
@@ -164,7 +148,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👥 Contributors
 
-[Md. Al-Mamun Provath, Musfequa Rahman, Rifa Nawal Khan] - Dataset creation, annotation correction, model development
+[Md. Al-Mamun Provath, Musfequa Rahman, Rifa Nawal] - Dataset creation, annotation correction, model development
 
 ## 🙏 Acknowledgments
 

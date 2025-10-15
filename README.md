@@ -164,7 +164,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👥 Contributors
 
-[Md. Al-Mamun Provath, Musfequa Rahman] - Dataset creation, annotation correction, model development
+[Md. Al-Mamun Provath, Musfequa Rahman, Rifa Nawal Khan] - Dataset creation, annotation correction, model development
 
 ## 🙏 Acknowledgments
 

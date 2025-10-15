@@ -172,8 +172,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Models implemented using [Ultralytics](https://ultralytics.com)
 - Training conducted on [Google Colab](https://colab.research.google.com)
 
----
-
-*Last Updated:* October 15, 2025  
-*Dataset Version:* v3 (Final)  
-*Status:* Ready for research and production use
